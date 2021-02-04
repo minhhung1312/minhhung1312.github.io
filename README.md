@@ -31,8 +31,6 @@
 			<ul>
 				<li>Mai Đình Quốc Anh - MSSV: 2012595</li>
 				<li>Ngô Văn Khải Hoàn - MSSV: 2013212</li>
-				<li>Lê Tấn Đạt - MSSV: 2012920</li>
-				<li>Đinh Tiến Khởi - MSSV: 2013537</li>
 			</ul>
 		</div>
 		<div id="work">
